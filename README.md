@@ -1,4 +1,4 @@
 # Personal Portfolio
 
-First portfolio page with bootstrap. 
+First portfolio page with bootstrap, html, css (and javascript)
 
