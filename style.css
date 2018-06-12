@@ -1,3 +1,29 @@
 body {
 	background: linear-gradient(to left, #2F6480, #19222B);
 }
+
+li a {
+    display: inline-block;
+     color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to white on hover --> use javascript later to turn lettering blue on hover */
+li a:hover {
+    background-color: #ffffff;
+}
+
+.borderThreeD {
+	border-bottom: 2px white;
+	border-right: 2px white;
+	width: 100%;
+	-moz-box-shadow:4px 4px 5px #888888;
+	-ms-box-shadow: 4px 4px 5px #888888;
+	-webkit-box-shadow: 4px 4px 5px #888888;
+	-o-box-shadow: 4px 4px 5px #888888;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
